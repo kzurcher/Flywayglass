@@ -1,0 +1,11 @@
+{
+  "name": "flyway-glass-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "One-page Flyway Glass Co. website with email service request form",
+  "main": "index.html",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "nodemailer": "^7.0.6"
+  }
+}
