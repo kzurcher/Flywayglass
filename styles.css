@@ -250,15 +250,8 @@ h3 {
 }
 
 .hero-card-main {
-  inset: 1rem 6rem 6rem 0;
-  transform: rotate(-4deg);
-}
-
-.hero-card-accent {
-  width: 52%;
-  right: 0;
-  bottom: 0;
-  transform: rotate(5deg);
+  inset: 0;
+  transform: rotate(-2deg);
 }
 
 .section-heading {
@@ -530,11 +523,7 @@ h3 {
   }
 
   .hero-card-main {
-    inset: 0.5rem 2.5rem 6.5rem 0;
-  }
-
-  .hero-card-accent {
-    width: 62%;
+    inset: 0.25rem;
   }
 
   .service-grid,
