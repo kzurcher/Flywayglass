@@ -1,4 +1,4 @@
-const revealTargets = document.querySelectorAll(".hero-copy, .hero-visual, .service-card, .coverage-panel, .stat, .about-copy, .about-logo, .request-copy, .request-form");
+const revealTargets = document.querySelectorAll(".hero-copy, .hero-visual, .service-card, .coverage-panel, .stat, .about-copy, .about-logo, .review-card, .request-copy, .request-form");
 
 revealTargets.forEach((element) => {
   element.classList.add("reveal");
