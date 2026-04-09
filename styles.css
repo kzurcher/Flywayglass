@@ -408,7 +408,13 @@ h3 {
   color: var(--text);
   border: 1px solid rgba(255, 255, 255, 0.12);
   border-radius: 1rem;
-  background: rgba(255, 255, 255, 0.04);
+  background: #0b0b0b;
+}
+
+.request-form select,
+.request-form select option {
+  color: #ffffff;
+  background: #0b0b0b;
 }
 
 .request-form input:focus,
